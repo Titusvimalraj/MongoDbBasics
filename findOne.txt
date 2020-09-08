@@ -1,0 +1,5 @@
+#Check weather a student name ‘Arun’ is present in the collection.
+
+db.class.find({name:"Arun"})
+db.class.findOne({name:"Arun"})
+db.class.find({name:"Arun"}).count()

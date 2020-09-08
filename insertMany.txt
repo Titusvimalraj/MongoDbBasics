@@ -1,0 +1,33 @@
+db.class.insertMany([
+    {
+        name:"Titus",
+        primaryAddress:"Chennai",
+        favouriteTeacher:"Raj",
+        age:16
+    },
+    {
+        name:"Ashwini",
+        primaryAddress:"Bangalore",
+        favouriteTeacher:"Anitha",
+        age:13
+    },
+    {
+        name:"Raju",
+        primaryAddress:"Pondichery",
+        favouriteTeacher:"Anitha",
+        age:15
+    },
+    {
+        name:"Arun",
+        primaryAddress:"Chennai",
+        favouriteTeacher:"Raj",
+        age:11
+    },
+    {
+        name:"Vijay",
+        primaryAddress:"Chennai",
+        favouriteTeacher:"Raj",
+        age:11
+    }
+])
+
